@@ -1,5 +1,4 @@
-**Name:Mayank raj
-**Company:**CODTECH IT SOLUTION
+Name:Mayank raj                                                                                                 Company:CODTECH IT SOLUTION
 **ID:**CT08DS388
 **Domain:**Java programing
 **Duration:**December 2024to January 2025
