@@ -1,9 +1,9 @@
-Name: Mayank raj
-Company:CODTECH IT SOLUTION
-ID:CT08DS388
-Domain: Java programing
-Duration:December 2024to January 2025
-Mentor:Muzammil Ahmed
+**Name:**Mayank raj
+**Company:**CODTECH IT SOLUTION
+**ID:**CT08DS388
+**Domain:**Java programing
+**Duration:**December 2024to January 2025
+**Mentor:**Muzammil Ahmed
 
 Overview of the Code for GitHub
 Project Name: Basic Calculator in Java
